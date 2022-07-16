@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yashpankaj
 - 👀 I’m interested in learning and exploring things 
-- 🌱 I’m currently learning Python(basic to intermediate) and Android dev.
+- 🌱 I’m currently learning C++(Intermediate) and Android dev.
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me u can dm me on my linkedIn 
      https://www.linkedin.com/in/yashpankajsharma
